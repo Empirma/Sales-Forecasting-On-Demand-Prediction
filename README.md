@@ -1,4 +1,4 @@
-# Sales Forecasting & On-Demand Predictions 📊
+# Sales Forecasting & On-Demand Predictions
 
 This is a **Streamlit** application designed for forecasting sales, analyzing product demand, visualizing data, and retraining predictive models. The app provides an intuitive interface for business users to make data-driven decisions using machine learning models.
 
@@ -92,13 +92,6 @@ Use the **Sidebar** to navigate between the different pages:
 - **Scikit-learn**: Preprocessing and machine learning utilities.
 - **Joblib**: Model persistence.
 - **RandomForestRegressor**: For predictive modeling.
-
----
-
-## Future Enhancements
-- Add support for exporting forecasts and visualizations.
-- Include more machine learning models for comparison.
-- Enhance error handling for file uploads and data processing.
 
 ---
 
