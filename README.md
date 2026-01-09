@@ -251,27 +251,6 @@ python main.py
 
 ---
 
-## Features Engineering
-
-### **Time-Based Features**
-- Day of week, day of month, month, quarter
-- Weekend indicator
-- Holiday indicators
-
-### **Lag Features**
-- 1, 7, 14, 30-day lags
-
-### **Rolling Statistics**
-- Rolling mean (7, 14, 30-day windows)
-- Rolling standard deviation
-
-### **Business Features**
-- Marketing budget
-- Product categories
-- Order quantities and values
-
----
-
 ## Future Enhancements
 
 - [ ] Add support for multiple model algorithms (XGBoost, LightGBM, Neural Networks)
